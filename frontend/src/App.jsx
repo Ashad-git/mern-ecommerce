@@ -17,7 +17,7 @@ function App() {
         </div>
         <div>
           <h1 className='text-blue-600 '>Get started</h1>
-          <p className='text-amber-300 text-6xl'>
+          <p className='text-amber-600 text-6xl'>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
         </div>
